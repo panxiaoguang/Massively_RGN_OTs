@@ -1,4 +1,7 @@
-## Gene therapy scripts
+## Incite
+[![DOI](https://zenodo.org/badge/359693041.svg)](https://zenodo.org/badge/latestdoi/359693041)
+
+## SURRO-seq scripts
 
 This is some scripts for indel calling of spCas9 of Gene Therapy oligos. 
 
