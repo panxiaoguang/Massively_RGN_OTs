@@ -3,7 +3,7 @@
 
 ## SURRO-seq scripts
 
-This is some scripts for indel calling of spCas9 of Gene Therapy oligos. 
+This is some scripts for indel calling of SpCas9 for SURRO-seq. 
 
 
 - extract_reads_from_BAM.py Filter the reads that match the reference sequence from the aligned BAM file.
